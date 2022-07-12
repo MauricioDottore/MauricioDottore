@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MauricioDottore
+- 👋 Hi, I’m @MauriDottore
 - 👀 I’m interested in learning to program in Angular and Node.JS.
 - 🌱 I’m currently learning C# and object oriented programming.
 - 💞️ I’m looking to collaborate on many projects as possible.
